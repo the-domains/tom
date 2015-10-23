@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Toms Website]]></title>
         <description><![CDATA[Toms Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 20:43:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 20:50:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cat]]></title>
+            <description><![CDATA[<article><h1>Cat</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb96c392-3aad-4239-881a-871e342838b6.png"></article>]]></description>
+            <link>https://thegrid.ai/tom/cat/index.html</link>
+            <guid isPermaLink="false">8f5a3557-34ce-4129-9710-20df2e24e984</guid>
+            <pubDate>Fri, 23 Oct 2015 20:50:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fleet week]]></title>
             <description><![CDATA[<article><h1>Fleet week</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ee7b162-b3df-4692-8fcb-ea2bad0754eb.png"></article>]]></description>
-            <link>undefinedfleet-week/index.html</link>
+            <link>https://thegrid.ai/tom/fleet-week/index.html</link>
             <guid isPermaLink="false">2fc39946-cff5-4f3c-86a6-943af4646ca4</guid>
             <pubDate>Fri, 23 Oct 2015 20:42:32 GMT</pubDate>
         </item>
