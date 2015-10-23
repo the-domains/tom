@@ -4,8 +4,15 @@
         <description><![CDATA[Toms Website]]></description>
         <link>https://thegrid.ai/tom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 20:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 21:12:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Babis birthday]]></title>
+            <description><![CDATA[<article><h1>Babis birthday</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd5b2761-5a18-4e6d-a13e-8e121d10123c.png"></article>]]></description>
+            <link>urn:uuid:627bb52d-d739-4238-b512-75491b857af9</link>
+            <guid isPermaLink="false">9c57618b-6a88-4399-8cb5-2271e2e99d39</guid>
+            <pubDate>Fri, 23 Oct 2015 21:12:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rhodes]]></title>
             <description><![CDATA[<article><h1>Rhodes</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c55f5f-283e-453b-bd30-f6087a61b090.png"></article>]]></description>
