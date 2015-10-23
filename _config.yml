@@ -1,7 +1,8 @@
 name: tom
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.66811
+title: Toms Website
 cta:
   domain: null
   bucket: null
