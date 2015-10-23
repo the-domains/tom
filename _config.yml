@@ -1,0 +1,23 @@
+name: tom
+favicon: null
+layout_spectrum: 0.3992586028762162
+typography_spectrum: 0.7481096917763352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.29922983911819756
+  lightness: 0.2761492575518787
+  saturation: 0.8722179003525525
+  rhythmicContrast: 0.24696227558888495
+purpose: []
