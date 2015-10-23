@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: tom
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.66588
-layout_spectrum: 0.5
+layout_spectrum: 0.2121374
