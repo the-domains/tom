@@ -1,7 +1,7 @@
 name: tom
 favicon: null
-layout_spectrum: 0.3992586028762162
-typography_spectrum: 0.7481096917763352
+layout_spectrum: 0.1437
+typography_spectrum: 0.66811
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#babec1'
     - '#555451'
   brandStrength: 0.6875
-  lightness: 0.2761492575518787
-  saturation: 0.8722179003525525
-  rhythmicContrast: 0.24696227558888495
+  lightness: 0.5625
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
