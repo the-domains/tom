@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Toms Website]]></title>
         <description><![CDATA[Toms Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 17:04:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 17:10:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Toggle On - Home]]></title>
             <description><![CDATA[<article><h1>Toggle On - Home</h1><p>Toggle On is a global team of technology and go-to-market consultants specialising in taking new technologies to new industry and geographic markets. We work with software vendors and service providers seeking new business growth in Europe, North America and South East Asia. Launching into new markets and building new channels can be expensive and time consuming.</p><img src="http://www.toggleon.com/uploads/tutelalogo.png"></article>]]></description>
             <link>http://www.toggleon.com/</link>
             <guid isPermaLink="false">c26cf184-62cb-41ba-9f74-63146fccb7b5</guid>
-            <pubDate>Fri, 23 Oct 2015 17:03:40 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 17:10:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
