@@ -1,5 +1,8 @@
+name: tom
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.66588
 title: Toms Website
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.17884
-  brandStrength: 0.4602578
-  lightness: 0.8920515
   brandColors:
     - '#050500'
     - '#6E1616'
     - '#ACA29B'
     - '#7F786E'
     - '#C68077'
+  brandStrength: 0.75
+  lightness: 0.8920515
+  saturation: 0.17884
   rhythmicContrast: 0.3141783
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: tom
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.66588
-layout_spectrum: 0.2121374
+purpose: []
