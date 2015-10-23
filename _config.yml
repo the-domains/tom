@@ -1,7 +1,8 @@
 name: tom
 favicon: null
-layout_spectrum: 0.71778
+layout_spectrum: 1
 typography_spectrum: 0.66588
+title: Toms Website
 collections:
   - index:
       path: /
@@ -14,7 +15,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Toms Website
 cta:
   domain: null
   bucket: null
@@ -34,7 +34,7 @@ color:
     - '#ACA29B'
     - '#7F786E'
     - '#C68077'
-  brandStrength: 0.25
+  brandStrength: 0.75
   lightness: 0.8920515
   saturation: 0.17884
   rhythmicContrast: 0.3141783
