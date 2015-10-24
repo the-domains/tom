@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.17884
-  brandStrength: 0.75
-  rhythmicContrast: 0.3141783
+  lightness: 0
+  brandStrength: 0.3012889
   brandColors:
     - '#050500'
     - '#6E1616'
     - '#ACA29B'
     - '#7F786E'
     - '#C68077'
-  lightness: 0.8920515
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: tom
 favicon: null
+name: tom
 opengraph:
   image: null
   type: null
