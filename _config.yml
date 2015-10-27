@@ -1,7 +1,7 @@
 name: tom
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5
+typography_spectrum: 0
 title: Toms Website
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#babec1'
     - '#555451'
   brandStrength: 0.4375
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.9375
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
