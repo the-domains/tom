@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 1
+  lightness: 0.5515575
   brandStrength: 0.4375
-  lightness: 0.9375
   brandColors:
     - '#150D0C'
     - '#916D42'
     - '#F3BE98'
     - '#5B86DD'
     - '#F45D6C'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: tom
+favicon: null
 opengraph:
   image: null
   type: null
