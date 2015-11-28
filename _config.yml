@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   lightness: 0.5515575
-  brandStrength: 0.5655209
+  brandStrength: 0.8533834
   brandColors:
-    - '#312F2F'
-    - '#F0D19A'
-    - '#FFFFFF'
-    - '#6D7077'
-    - '#BC9C64'
+    - '#171616'
+    - '#A2896E'
+    - '#FFFFFC'
+    - '#FF9978'
+    - '#FB5B5D'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: tom
 favicon: null
+name: tom
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5
-layout_spectrum: 0.7513427
+typography_spectrum: 0.3163265
+layout_spectrum: 1
