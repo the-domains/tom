@@ -4,7 +4,7 @@
         <description><![CDATA[Toms Website]]></description>
         <link>https://thegrid.ai/tom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 13:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 03:37:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Babis birthday]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Fri, 23 Oct 2015 21:12:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Snapchat's valuation is based on a single flawed assumption]]></title>
+            <description><![CDATA[<article><h1>Snapchat's valuation is based on a single flawed assumption</h1><p>Dare Obasanjo's weblog I recently was reading a leaked email written by Twitter's current CFO, at the time representing Snapchat's investors, to Snapchat's CEO which dissected Facebook's recent earnings announcements. It's clear from the mail that Snapchat's investors view Facebook as the benchmark when it comes to the size of their potential audience as well as revenue.</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAX1AAAAJDA2OGQ4OTliLWMyYmQtNGMxYS05NWRkLWUzMGQxODFiZDNmNQ.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/snapchats-valuation-based-single-flawed-assumption-dare-obasanjo?trk=hp-feed-article-title-like</link>
+            <guid isPermaLink="false">808de1ca-6ce3-45dc-88b3-e44add0b9bb4</guid>
+            <pubDate>Fri, 08 Jan 2016 03:37:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Beautiful websites for small businesses. The world's fastest growing website builder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6e31aa0b8bc2a7fe66181de2e081a0a97d091fb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>Beautiful websites for small businesses. The world's fastest growing website builder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97e3c97ce76898b7648770814b42af80ad0eaa71.jpg"></article>]]></description>
             <link>http://www.basekit.com/</link>
             <guid isPermaLink="false">d0283c8d-f75a-468d-b4ff-d8c24b341a2e</guid>
             <pubDate>Fri, 11 Dec 2015 13:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid Website Platform Automatically Adapts Design To Make Your Content Shine]]></title>
-            <description><![CDATA[<article><h1>The Grid Website Platform Automatically Adapts Design To Make Your Content Shine</h1><p>Video Do websites dream of electric designers? Can web content know itself? The Grid, a San Francisco startup, is changing the way websites are designed by radically changing the role of the designer. This new platform uses machine learning combined with constraint-based design and flow-based programming to make form dynamically adapt to content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/327c48c3851e1d483cd931ea81e9e9db0a4a928a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid Website Platform Automatically Adapts Design To Make Your Content Shine</h1><p>Video Do websites dream of electric designers? Can web content know itself? The Grid, a San Francisco startup, is changing the way websites are designed by radically changing the role of the designer. This new platform uses machine learning combined with constraint-based design and flow-based programming to make form dynamically adapt to content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3245bddc5f4d9bbd6e09b95010afedb76a13722f.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/anthonykosner/2014/10/15/the-grid-website-platform-automatically-adapts-design-to-make-your-content-shine/</link>
             <guid isPermaLink="false">c2f9844f-f3c3-49fa-ab05-f7673603bcfa</guid>
             <pubDate>Fri, 11 Dec 2015 13:15:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tom/cat/index.html</link>
             <guid isPermaLink="false">8f5a3557-34ce-4129-9710-20df2e24e984</guid>
             <pubDate>Fri, 23 Oct 2015 20:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fleet week]]></title>
-            <description><![CDATA[<article><h1>Fleet week</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/733b9eabb9ef57431cf97f3b9d27174e99f12524.png"></article>]]></description>
-            <link>https://thegrid.ai/tom/fleet-week/index.html</link>
-            <guid isPermaLink="false">2fc39946-cff5-4f3c-86a6-943af4646ca4</guid>
-            <pubDate>Fri, 23 Oct 2015 20:42:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
